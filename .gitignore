@@ -16,3 +16,5 @@
 tmp/*
 .keys.json
 .secrets
+secret
+vault.encrypted

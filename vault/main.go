@@ -117,5 +117,5 @@ func main() {
 		log.Fatalf("failed to find key: %s", key)
 	}
 
-	log.Printf("value is: %s", val)
+	log.Printf("value is: %s\n", val)
 }
